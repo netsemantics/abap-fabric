@@ -1,0 +1,15 @@
+# Node / npm (CI tooling)
+node_modules/
+npm-debug.log*
+
+# Generated output
+output/
+gen/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+*.swp
